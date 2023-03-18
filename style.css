@@ -1,0 +1,12 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+#myCanvas
+{
+   border:10px ridge purple;
+   border-radius: 10px;
+}
+
